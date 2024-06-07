@@ -1,5 +1,7 @@
 # Flappy-Bird
 <br/>
+<ul>
+<li>
 Used "GameObject" Unity feature to create the bird and pipe view.<br/>
 
 Used "C-sharp" to create scripts of different objects.<br/>
@@ -15,3 +17,7 @@ Used "PipeMiddle Script" to create a hit effect and increament of score when bir
 Used "Scene Management" feature to create a restart/play-again button to start game again when game is over.<br/>
 
 Used "Tag" feature to have interaction between prefab and other scripts.<br/>
+
+
+</li>
+</ul>
