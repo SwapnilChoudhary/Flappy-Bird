@@ -2,15 +2,15 @@
 <br/>
 <ul>
 
-Used "GameObject" Unity feature to create the bird and pipe view.<br/>
+<li?>Used "GameObject" Unity feature to create the bird and pipe view.</li><br/>
 
-Used "C-sharp" to create scripts of different objects.<br/>
+<li>Used "C-sharp" to create scripts of different objects.</li><br/>
 
-Used "Prefab" feature of Unity to create other pipes of same size.<br/>
+<li>Used "Prefab" feature of Unity to create other pipes of same size.</li><br/>
 
-Used "Logic Script" to create logic of iterating player score with each pipe the bird passes.<br/>
+<li>Used "Logic Script" to create logic of iterating player score with each pipe the bird passes.</li><br/>
 
-Used "PipeSpawn Script" to spawn pipes after each other in different sizes or can say location as per single view.<br/>
+<li>Used "PipeSpawn Script" to spawn pipes after each other in different sizes or can say location as per single view.</li><br/>
 
 Used "PipeMiddle Script" to create a hit effect and increament of score when bird passes between pipes.<br/>
 
